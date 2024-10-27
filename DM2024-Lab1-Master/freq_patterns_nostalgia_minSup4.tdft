@@ -382,8 +382,8 @@ where:15
 yesterday:15
 yesterday	more:7
 sang:15
-sang	since:4
 sang	been:4
+sang	since:4
 man:15
 man	oh:4
 past:15
@@ -447,9 +447,9 @@ been:21
 been	has:5
 been	since:7
 since:22
+since	has:4
 since	ever:4
 since	away:4
-since	has:4
 high:22
 playing:22
 playing	them:4
@@ -466,9 +466,9 @@ away:25
 by:25
 by	or:5
 has:25
-has	or:4
 has	takes:4
 has	away:4
+has	or:4
 today:25
 today	wish:4
 about:25
